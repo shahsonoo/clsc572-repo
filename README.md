@@ -1,1 +1,3 @@
-# clsc572-repo
+# CLSE 572 – Lipophilicity Fingerprint Package
+
+Instructions...
